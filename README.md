@@ -1,4 +1,3 @@
-```c
 #include <stdio.h>
 
 #define MAX 50
@@ -240,6 +239,4 @@ int main(void) {
 
     return 0;
 }
-```
 
-GIVE ME THE output image like the photo
